@@ -30,5 +30,4 @@ The workbook contains the following sheets:
 ## Project Outcome
 The project demonstrates practical Excel skills for data cleaning, business analysis, sales reporting, and decision-making.
 
-## Author
-Subhashree Senapati
+
